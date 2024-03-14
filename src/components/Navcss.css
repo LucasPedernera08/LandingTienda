@@ -1,0 +1,26 @@
+.navBar{
+display: flex;
+list-style: none;
+padding: 24px;
+align-items: center;
+align-content: center;
+justify-content: center;
+}
+
+.navButton a{           
+padding: 35px 35px;
+margin: 0;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+
+
+}
+
+
+
+
+
+
+
+        
